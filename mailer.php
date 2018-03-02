@@ -13,4 +13,4 @@ if($_POST) {
     $output = json_encode(array('success' => false));
     die($output);
   }
-}
+}?>
